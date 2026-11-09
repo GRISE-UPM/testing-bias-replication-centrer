@@ -4,9 +4,9 @@
 
 - <a id="c-researcher"></a>**Researcher**: Any visitor of the portal. They can only access  the landing page.
 
-- <a id="c-interested-researcher"></a>**Interested researcher**: Any authenticated user of the portal (see [nfr-authentication](https://github.com/GRISE-UPM/testing-bias-replication-centrer/edit/main/docs/NON-FUNCTIONAL-REQUIREMENTS.md#nfr-authentication)). We assume that they are researchers, but they may also be simply casual visitors. They shall not be able to access detailed data or artifacts.
+- <a id="c-interested-researcher"></a>**Interested researcher**: Any authenticated user of the portal (see [nfr-authentication](https://github.com/GRISE-UPM/testing-bias-replication-centrer/blob/main/docs/NON-FUNCTIONAL-REQUIREMENTS.md#nfr-authentication)). We assume that they are researchers, but they may also be simply casual visitors. They shall not be able to access detailed data or artifacts.
 
-- <a id="c-participant-researcher"></a>**Participant researchers**: Any external researcher that joins the project. Participation requests shall be validated (see [nfr-participation](https://github.com/GRISE-UPM/testing-bias-replication-centrer/edit/main/docs/NON-FUNCTIONAL-REQUIREMENTS.md#nfr-participation)).
+- <a id="c-participant-researcher"></a>**Participant researchers**: Any external researcher that joins the project. Participation requests shall be validated (see [nfr-participation](https://github.com/GRISE-UPM/testing-bias-replication-centrer/blob/main/docs/NON-FUNCTIONAL-REQUIREMENTS.md#nfr-participation)).
 
 - <a id="c-replication-material"></a>**Replication materials**: Documents, code and scripts needed to conduct or analyze a replication.
 
